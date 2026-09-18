@@ -129,4 +129,4 @@ Open [http://localhost:5173](http://localhost:5173) to run the application local
 ---
 
 ## 🏆 Submitted for Olinp Full-Stack Assignment Evaluation
-*(Deadline: September 19, 8:00 PM)*
+
