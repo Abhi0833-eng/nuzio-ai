@@ -4,6 +4,7 @@
 [![Vite](https://img.shields.io/badge/Vite-6.0-646CFF.svg)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-06B6D4.svg)](https://tailwindcss.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-Express-green.svg)](https://expressjs.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-Live_Demo-000000.svg?logo=vercel&logoColor=white)](https://nuzio-ai-nine.vercel.app)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **Full-Stack Developer Role Submission — Olinp**  
@@ -14,9 +15,9 @@
 
 ## 🚀 Live Demo & Repository
 
-- **GitHub Repository**: [https://github.com/Abhi0833-eng/nuzio-ai](https://github.com/Abhi0833-eng/nuzio-ai)
-- **Local Application URL**: `http://localhost:5173`
-- **Backend API Base**: `http://localhost:5000`
+- 🌐 **Live Production URL**: [https://nuzio-ai-nine.vercel.app](https://nuzio-ai-nine.vercel.app)
+- 💻 **GitHub Repository**: [https://github.com/Abhi0833-eng/nuzio-ai](https://github.com/Abhi0833-eng/nuzio-ai)
+- ⚡ **API Health Check**: [https://nuzio-ai-nine.vercel.app/api/health](https://nuzio-ai-nine.vercel.app/api/health)
 
 ---
 
