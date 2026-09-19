@@ -11,7 +11,7 @@ app.use(cors());
 app.use(express.json());
 
 // Root API Welcome Info
-app.get("/", (req, res) => {
+const apiInfoHandler = (req, res) => {
   res.json({
     status: "active",
     name: "Nuzio AI - Full-Stack Personalized Audio News API",
@@ -33,7 +33,11 @@ app.get("/", (req, res) => {
       }
     }
   });
-});
+};
+
+app.get("/", apiInfoHandler);
+app.get("/api", apiInfoHandler);
+app.get("/api/", apiInfoHandler);
 
 // API Routes
 app.use("/api/auth", authRouter);
